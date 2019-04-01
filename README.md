@@ -11,6 +11,7 @@ The application also contains a virtual output device for streaming sound to the
 
 Features:
 - Select host
+- Change client name
 - Play/pause
 - Previous/next
 - Volume control
